@@ -1,0 +1,15 @@
+,voisin_1,voisin_2,voisin_3
+seat_comfort,0.055,0.082,0.083
+d_a_time_convenient,0.06,0.063,0.083
+food_and_drink,0.055,0.063,0.065
+gate_location,0.06,0.065,0.087
+inflight_wifi_service,0.051,0.053,0.058
+inflight_entertainment,0.062,0.075,0.076
+online_support,0.041,0.045,0.058
+ease_online_booking,0.04,0.045,0.053
+on_board_service,0.046,0.047,0.065
+leg_room_service,0.059,0.059,0.067
+baggage_handling,0.03,0.047,0.059
+checkin_service,0.079,0.08,0.089
+cleanliness,0.03,0.046,0.059
+online_boarding,0.04,0.041,0.051
